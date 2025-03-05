@@ -1,4 +1,7 @@
-# EC1B1_group28
+# EC1B1 Coursework group 21
 
 
-Coursework for group 28 EC1B1 2025
+This repository contains the documented coursework for our coursework for EC1B1
+
+
+
