@@ -1,1 +1,11 @@
-
+pandas
+numpy
+warnings
+openpyxl
+functools
+matplotlib.pyplot
+os
+lets_plot
+scipy.stats
+statsmodels.formula.api
+statsmodels.api
