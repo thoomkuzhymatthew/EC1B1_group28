@@ -9,3 +9,4 @@ lets_plot
 scipy.stats
 statsmodels.formula.api
 statsmodels.api
+tabulate
